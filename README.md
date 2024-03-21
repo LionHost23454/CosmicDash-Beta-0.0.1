@@ -1,4 +1,4 @@
-#CosmicDash-Beta-0.0.1
+# CosmicDash-Beta-0.0.1
 
 
 Este es el repositorio oficial de CosmicDash, donde mostramos el proceso paso a paso (versión por versión) de construcción del juego. CosmicDash es un emocionante juego de plataformas en el que los jugadores deben navegar a través de un cosmos vibrante mientras evitan obstáculos y desafíos. El proyecto está principalmente en español, pero pronto estará disponible en otros idiomas para llegar a una audiencia más amplia.
